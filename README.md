@@ -2,4 +2,6 @@
 Mongo-Express-Angular-Node
 
 Proyecto básico para aprender conceptos de MongoDB, Express, Angular, NodeJS.
-Oros componentes: mongoose, cors, env
+Otros componentes: mongoose, cors, env
+
+Siguiendo la guía del curso gratuito de https://github.com/truizdiaz
