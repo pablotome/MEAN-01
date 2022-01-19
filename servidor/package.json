@@ -1,0 +1,21 @@
+{
+  "name": "productoapi",
+  "version": "1.0.0",
+  "description": "MEAN API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ."
+  },
+  "author": "Pablo Tome",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^13.0.1",
+    "express": "^4.17.2",
+    "mongoose": "^6.1.6"
+  }
+}
